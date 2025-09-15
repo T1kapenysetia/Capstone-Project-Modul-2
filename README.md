@@ -1,4 +1,4 @@
-# Capstone-Project-Modul-2
+# Airbnb Listings Bangkok
 Tema yang dipilih: Airbnb
 
 Airbnb adalah platform berbasis ekonomi berbagi (sharing economy) yang memungkinkan individu menyewakan properti mereka, baik rumah, apartemen, kamar, maupun ruangan unik lainnya kepada wisatawan.
